@@ -1,0 +1,15 @@
+{
+  "name": "saas.crash_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": " sass --watch dist/sass/style.scss dist/css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.58.3"
+  }
+}
